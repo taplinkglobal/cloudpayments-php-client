@@ -1,6 +1,8 @@
 {
     "name": "taplink/cloudpayments-php-client",
     "description": "cloudpayments api client",
+    "type": "library",
+    "version": "1.0.0",
     "license": "MIT",
     "authors": [
         {
