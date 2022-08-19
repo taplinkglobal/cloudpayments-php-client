@@ -2,7 +2,7 @@
     "name": "taplink/cloudpayments-php-client",
     "description": "cloudpayments api client",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Taplink\\Cloudpayments\\": "src"
+            "Flowwow\\Cloudpayments\\": "src"
         }
     },
     "scripts": {
